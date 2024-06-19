@@ -15,7 +15,7 @@ To use this project, simply download or clone the repository:
 git clone https://github.com/logusivam/triangle-star-pattern.git
 ```
 
-Alternatively, you can directly copy the `main.cpp` file into your project directory.
+Alternatively, you can directly copy the `triangstars.cpp` file into your project directory.
 
 Usage
 1. Make sure you have a C++ compiler installed (e.g., g++, clang, devcpp).
