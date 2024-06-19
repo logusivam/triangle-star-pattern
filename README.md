@@ -12,7 +12,7 @@ This project demonstrates how to print a triangle star pattern in C++. The patte
 To use this project, simply download or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/triangle-star-pattern.git
+git clone https://github.com/logusivam/triangle-star-pattern.git
 ```
 
 
